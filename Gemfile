@@ -15,6 +15,7 @@ gem "jbuilder"
 gem "redis", "~> 4.0"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
+gem "prawn", "~> 2.4"
 
 # gem "kredis"
 # gem "bcrypt", "~> 3.1.7"
